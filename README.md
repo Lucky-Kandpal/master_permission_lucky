@@ -23,3 +23,7 @@ Easy Integration:
 Designed as a library module (or AAR) that can be added to any Android project.
 
 Get started by integrating the library in your project and implementing the provided PermissionResultListener in your host Activity to handle permission results effortlessly.
+
+
+
+[![](https://jitpack.io/v/Lucky-Kandpal/master_permission_lucky.svg)](https://jitpack.io/#Lucky-Kandpal/master_permission_lucky)
